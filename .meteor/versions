@@ -44,6 +44,7 @@ minimongo@1.0.6
 mizzao:bootstrap-3@3.3.1_1
 mobile-status-bar@1.0.2
 mongo@1.0.10
+mongo-livedata@1.0.7
 npm-bcrypt@0.7.7
 observe-sequence@1.0.4
 ordered-dict@1.0.2
@@ -52,6 +53,7 @@ reactive-dict@1.0.5
 reactive-var@1.0.4
 reload@1.1.2
 retry@1.0.2
+roelcastano:errors@1.0.0
 routepolicy@1.0.3
 sacha:spin@2.0.4
 service-configuration@1.0.3
